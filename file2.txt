@@ -1,0 +1,2 @@
+this is first entry - file2.txt
+this is second entry - file2.txt
